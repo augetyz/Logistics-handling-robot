@@ -33,5 +33,3 @@
 ## 国赛初赛视频分享
 
 [工创赛国赛初赛视频bilibili](https://www.bilibili.com/video/BV1Wj411s7hJ/?share_source=copy_web&vd_source=58144939e34acbbb38e3f36c750e8498)
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=452124160&bvid=BV1Wj411s7hJ&cid=1361902160&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
