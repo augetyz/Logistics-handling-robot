@@ -1,0 +1,13 @@
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\keil5\ARM\ARMCC\Bin'
+Build target 'Car_biubiu'
+compiling freertos.c...
+../Core/Src/freertos.c(879): warning:  #550-D: variable "back_home_error"  was set but never used
+      uint8_t back_home_error = 0; // 第二次去拿取物料时，如果中断则开启此标志位
+../Core/Src/freertos.c(3154): warning:  #177-D: variable "back_sign"  was declared but never referenced
+      static int back_sign = 0, IDR_speed_sum1 = 0, IDR_speed_dert = 0, IDR_speed_sum2 = 0, IDR_speed_use = 0;
+../Core/Src/freertos.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=36736 RO-data=956 RW-data=1640 ZI-data=34312  
+FromELF: creating hex file...
+"Freertos_DMA_IMU\Freertos_DMA_IMU.axf" - 0 Error(s), 2 Warning(s).
+Build Time Elapsed:  00:00:04

@@ -1,0 +1,15 @@
+{
+     "files.associations": {
+          "main.h": "c",
+          "pid.h": "c",
+          "soft_user.h": "c",
+          "fashion_star_uart_servo.h": "c",
+          "math.h": "c",
+          "ring_buffer.h": "c",
+          "servo.h": "c",
+          "stm32f4xx_hal.h": "c",
+          "cmsis_os.h": "c",
+          "freertos.h": "c",
+          "compare": "c"
+     }
+}

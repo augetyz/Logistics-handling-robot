@@ -1,0 +1,13 @@
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\keil5\ARM\ARMCC\Bin'
+Build target 'Car_biubiu'
+compiling freertos.c...
+../Core/Src/freertos.c(434): warning:  #177-D: variable "angle"  was declared but never referenced
+      float angle[5];
+../Core/Src/freertos.c(435): warning:  #177-D: variable "i"  was declared but never referenced
+      uint16_t i = 0;
+../Core/Src/freertos.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=55516 RO-data=956 RW-data=1776 ZI-data=34480  
+FromELF: creating hex file...
+"Freertos_DMA_IMU\Freertos_DMA_IMU.axf" - 0 Error(s), 2 Warning(s).
+Build Time Elapsed:  00:00:05

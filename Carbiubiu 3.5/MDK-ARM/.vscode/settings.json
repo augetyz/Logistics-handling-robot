@@ -1,0 +1,7 @@
+{
+     "files.associations": {
+          "main.h": "c",
+          "pid.h": "c",
+          "soft_user.h": "c"
+     }
+}
