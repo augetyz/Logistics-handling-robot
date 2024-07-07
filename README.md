@@ -13,11 +13,11 @@
 主要包括：
 > [历程分享——我们的参赛经历，过程艰辛，跌宕起伏，几经反转；](https://www.cnblogs.com/sparkle-now/p/18277263/gong-chuang-sai-zong-jie-yu-zhan-wanggai-shu)
 
-> 比赛解读——主要讲一下我们对这个规则的想法；
+> [比赛解读——主要讲一下我们对这个规则的理解；](https://www.cnblogs.com/sparkle-now/p/18279684/gong-chuang-sai-zong-jie-yu-gai-jinbi-sai-jie-du)
 
 > [选型经验——主要讲做比赛选元件，用东西的坑和经验](https://www.cnblogs.com/sparkle-now/p/18278041/gong-chuang-sai-zong-jie-yu-gai-jinxuan-xing-jian)
 
-> 方案建议——主要说我们队的方案和改进，供大家参考；
+> [方案建议——主要说我们队的方案和改进，供大家参考；](https://www.cnblogs.com/sparkle-now/p/18281571/gong-chuang-sai-zong-jie-yu-gai-jinfang-an-fen-xia)
 
 > 队长经验——作为队长，讲一下比赛中团队管理，项目进展推进，人员管理之类的；
 
